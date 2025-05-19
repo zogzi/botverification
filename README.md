@@ -1,1 +1,1 @@
-# botverification
+# THIS IS MADE TO VERIFY AN DISCORD APP
